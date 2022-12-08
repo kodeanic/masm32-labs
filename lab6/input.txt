@@ -1,0 +1,4 @@
+hello my name is Tolya
+its my asm lab
+one two three four five
+hello world
